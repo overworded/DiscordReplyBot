@@ -4,10 +4,10 @@ The Discord Reply Bot is a Python-based chat bot that automatically replies to m
 
 ## Features
 
-- Automatically replies to messages in Discord containing specific keywords
-- Customize the keywords and messages to suit your needs
-- Built using Python and the Discord.py library
-- Easy to install and use
+- Automatically replies to messages in Discord containing specific keywords.
+- Customize the keywords and messages to suit your needs.
+- Built using Python and the Discord.py library.
+- Easy to install and use.
 
 ## Getting Started
 
